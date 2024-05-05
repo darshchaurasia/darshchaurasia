@@ -23,6 +23,20 @@ all algorithms optimized
 
 found 0 vulnerabilities, only insights <3
 ```
+
+## 📱 Contributions
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/darshchaurasia/darshchaurasia/output/github-contribution-grid-snake.svg" />
+
+## 📚 Stats
+
+<a href="https://github.com/darshchaurasia">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=darshchaurasia&theme=react&show_icons=true&hide_border=true&count_private=true"><nobr>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshchaurasia&theme=react&show_icons=true&hide_border=true&layout=compact"><nobr>
+  <img height="130em" width="310" src="https://github-readme-streak-stats.herokuapp.com/?user=darshchaurasia&theme=react&hide_border=true">
+</nobr>
+</a>
+</p>
+
 ## 💻 Skills
 <br/>
 <div align="center">
@@ -31,14 +45,9 @@ found 0 vulnerabilities, only insights <3
     <img src="https://skillicons.dev/icons?i=bash,postman,linux,redhat,tensorflow,cpp"/><br>
 </div>
 
-## 📚 Stats
-<p align="center">
-<a href="https://github.com/darshchaurasia">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=darshchaurasia&theme=react&show_icons=true&hide_border=true&count_private=true">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshchaurasia&theme=react&show_icons=true&hide_border=true&layout=compact">
-</a>
-</p>
 
+
+  
 
 
 
