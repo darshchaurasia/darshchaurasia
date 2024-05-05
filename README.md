@@ -30,9 +30,9 @@ found 0 vulnerabilities, only insights <3
 ## 📚 Stats
 
 <a href="https://github.com/darshchaurasia">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=darshchaurasia&theme=react&show_icons=true&hide_border=true&count_private=true"><nobr>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshchaurasia&theme=react&show_icons=true&hide_border=true&layout=compact"><nobr>
-  <img height="130em" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=darshchaurasia&theme=react&hide_border=true">
+  <img width="285" src="https://github-readme-stats.vercel.app/api?username=darshchaurasia&theme=react&show_icons=true&hide_border=true&count_private=true"><nobr>
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshchaurasia&theme=react&show_icons=true&hide_border=true&layout=compact"><nobr>
+  <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=darshchaurasia&theme=react&hide_border=true">
 </nobr>
 </a>
 </p>
