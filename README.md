@@ -3,7 +3,7 @@
 - I’m Darsh Chaurasia (@darshchaurasia), a student at Arizona State University (📍🇺🇸).
 - 📈 Practicing Software Development (Back-End, MERN stack, Full-Stack); skilled in DSA using Java & Python; and creating APIs to support community projects!
 - 👀 I’m actively researching privacy-preserving ML, Data Science by myself;
-- 🌱 I’m currently learning advanced algorithms and enhancing my skills in JavaFX and ReactJS, while working on projects like 'My Portfolio Website' and an online database for Vietnamese shrimp farmers.
+- 🌱 I’m currently learning advanced algorithms and enhancing my skills in JavaFX and ReactJS, while working on projects like 'An app for students to meet and study together' and an online database for Vietnamese shrimp farmers.
 - 📫 Linkedin: <a href="https://www.linkedin.com/in/darshchaurasia/">Darsh Chaurasia</a>, Instagram: <a href="https://www.instagram.com/darshchaurasia/">@darshchaurasia</a>; Twitter: <a href="https://twitter.com/darshchaurasia"> @darshchaurasia</a>; YouTube: Check out my GitHub for my latest projects!
 - 🫀 My favorite projects are: <a href="https://github.com/darshchaurasia/ProjectSpyn">Spyn</a>, <a href="https://github.com/darshchaurasia/instagram_attack">Instagram Login Page Clone</a>, and my online database for Vietnamese shrimp farmers.
 - 😁 Apart from coding, I love mixed martial arts, attending tech meetups, and participating in coding challenges.
