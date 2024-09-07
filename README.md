@@ -1,7 +1,7 @@
 ## ✡ Directory
 
 - I’m Darsh Chaurasia (@darshchaurasia), a student at Arizona State University (📍🇺🇸).
-- 📈 Practicing Web Development & Learning AWS and Advanced Python!
+- 📈 Practicing Software Development & Learning AWS and Advanced Python!
 - 🌱 I’m currently learning advanced algorithms and enhancing my skills in Operating systems and Database Management, while working on projects like 'An app for students to meet and study together'.
 - 📫 Linkedin: <a href="https://www.linkedin.com/in/darshchaurasia/">Darsh Chaurasia</a>, Instagram: <a href="https://www.instagram.com/darshchaurasiaa/">@darshchaurasiaa</a>; Twitter: <a href="https://twitter.com/darshchaurasia"> @darshchaurasia</a>.
 - 🫀 My favorite projects are: <a href="https://github.com/darshchaurasia/ProjectSpyn">Spyn</a>, <a href="https://github.com/darshchaurasia/instagram_attack">Instagram Login Page Clone</a>.
