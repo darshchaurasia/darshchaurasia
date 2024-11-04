@@ -4,7 +4,7 @@
 - 📈 Practicing Software Development & Learning AWS and Advanced Python!
 - 🌱 I’m currently learning advanced algorithms and enhancing my skills in Operating systems and Database Management, while working on projects like 'An app for students to meet and study together'.
 - 📫 Linkedin: <a href="https://www.linkedin.com/in/darshchaurasia/">Darsh Chaurasia</a>, Instagram: <a href="https://www.instagram.com/darshchaurasiaa/">@darshchaurasiaa</a>; Twitter: <a href="https://twitter.com/darshchaurasia"> @darshchaurasia</a>.
-- 🫀 My favorite projects are: <a href="https://github.com/darshchaurasia/ProjectSpyn">Spyn</a>, <a href="https://github.com/darshchaurasia/instagram_attack">Instagram Login Page Clone</a>.
+- 🫀 My favorite projects are: <a href="https://github.com/darshchaurasia/Pathfinding-Visualizer">Pathfinding Visualizer</a>, <a href="https://github.com/darshchaurasia/inferno-verification-service">Inferno Discord Bot</a>.
 - 😁 Apart from coding, I love mixed martial arts, attending tech meetups, and playing Badminton🏸.
 - 💻 Programming languages known: Java, Objective C, C++, Python, HTML, CSS, JavaScript, SQL, MATLAB.
 - ⭐ Recognized on Dean’s List every semester, recipient of the NAMU Scholarship, and various distinctions in academic and martial arts competitions.
