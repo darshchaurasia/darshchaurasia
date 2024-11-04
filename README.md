@@ -1,38 +1,128 @@
-## ✡ Directory
+## ✨ About Me
 
-- I’m Darsh Chaurasia (@darshchaurasia), a student at Arizona State University (📍🇺🇸).
-- 📈 Practicing Software Development & Learning AWS and Advanced Python!
-- 🌱 I’m currently learning advanced algorithms and enhancing my skills in Operating systems and Database Management, while working on projects like 'An app for students to meet and study together'.
-- 📫 Linkedin: <a href="https://www.linkedin.com/in/darshchaurasia/">Darsh Chaurasia</a>, Instagram: <a href="https://www.instagram.com/darshchaurasiaa/">@darshchaurasiaa</a>; Twitter: <a href="https://twitter.com/darshchaurasia"> @darshchaurasia</a>.
-- 🫀 My favorite projects are: <a href="https://github.com/darshchaurasia/Pathfinding-Visualizer">Pathfinding Visualizer</a>, <a href="https://github.com/darshchaurasia/inferno-verification-service">Inferno Discord Bot</a>.
-- 😁 Apart from coding, I love mixed martial arts, attending tech meetups, and playing Badminton🏸.
-- 💻 Programming languages known: Java, Objective C, C++, Python, HTML, CSS, JavaScript, SQL, MATLAB.
-- ⭐ Recognized on Dean’s List every semester, recipient of the NAMU Scholarship, and various distinctions in academic and martial arts competitions.
-- 📧 My inbox is always open to connect: <a href="mailto:darshchaurasia@gmail.com">darshchaurasia@gmail.com</a>
-- 📝 Check out <a href="https://darshchaurasia.com">My Website here</a>.
-- 🌻 My friends describe me as "motivated, detail-oriented, and a collaborative team player."
+I'm **Darsh Chaurasia**, a Software and Data Engineering enthusiast at Arizona State University (📍🇺🇸), skilled in **Java, Python, C++, SQL, AWS**, and **advanced algorithms**. I’m passionate about building scalable solutions, currently focused on **AWS** and **Python** for large-scale applications.
+
+- **Projects**: Developed a [Pathfinding Visualizer](https://github.com/darshchaurasia/Pathfinding-Visualizer) and an [Inferno Discord Bot](https://github.com/darshchaurasia/inferno-verification-service).
+- **Recognition**: Dean’s List honoree (Fall 2022 - Present) & NAMU Scholar.
+- **Organizations**: The AI Society, Software Developers Association, Fulton Ambassadors
+- **Interests**: Mixed martial arts, tech meetups, and badminton.
+
+📈 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/darshchaurasia/) | [Website](https://darshchaurasia.com) | [Email](mailto:darshchaurasia@gmail.com)
+
+"Motivated, detail-oriented, and a collaborative team player"—that's how my peers describe me. Ready to bring my skills and drive to your team!
 
 
 ## 📱 Contributions
+
+<div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/darshchaurasia/darshchaurasia/output/github-contribution-grid-snake.svg" />
+</div>
 
-## 📚 Stats
-
-<a href="https://github.com/darshchaurasia">
-  <img width="285" src="https://github-readme-stats.vercel.app/api?username=darshchaurasia&theme=react&show_icons=true&hide_border=true&count_private=true"><nobr>
-  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshchaurasia&theme=react&show_icons=true&hide_border=true&layout=compact"><nobr>
-  <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=darshchaurasia&theme=react&hide_border=true">
-</nobr>
-</a>
-</p>
 
 ## 💻 Skills
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mysql,mongodb,c,java,flask" />
-    <img src="https://skillicons.dev/icons?i=bash,postman,linux,redhat,tensorflow,cpp"/><br>
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+      <br>R
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redhat" width="48" height="48" alt="Red Hat" />
+      <br>Red Hat
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+  </tr>
+</table>
 
 
 
