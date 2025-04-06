@@ -3,9 +3,9 @@
 I'm **Darsh Chaurasia**, a Software and Data Engineering enthusiast at Arizona State University (📍US), skilled in **Java, C, C#, C++, SQL, AI**. I’m passionate about building scalable solutions, currently focused on **AWS** and **Python** for large-scale applications.
 
 - **Projects**: Developed a [Pathfinding Visualizer](https://github.com/darshchaurasia/Pathfinding-Visualizer) and an [Lux – Your Closet, Smarter: AI Agents for Outfit Suggestions](https://github.com/ashworks1706/DevHacks-2025).
-- **Recognition**: Dean’s List honoree (Fall 2022 - Present) & NAMU Scholar.
-- **Organizations**: The AI Society, Software Developers Association, Fulton Ambassadors
-- **Interests**: Mixed martial arts, tech meetups, and badminton.
+- **Recognition**: Dean’s List honoree (Fall 2022 - Present)
+- **Organizations**: Software Developers Association, The AI Society
+- **Interests**: Coffee meetups, and badminton
 
 📈 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/darshchaurasia/) | [Website](https://darshchaurasia.com) | [Email](mailto:darshchaurasia@gmail.com)
 
