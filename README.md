@@ -1,6 +1,6 @@
 ## ✨ About Me
 
-I'm **Darsh Chaurasia**, a Software and Data Engineering enthusiast at Arizona State University (📍US), skilled in **Java, Python, C++, SQL, AWS**, and **advanced algorithms**. I’m passionate about building scalable solutions, currently focused on **AWS** and **Python** for large-scale applications.
+I'm **Darsh Chaurasia**, a Software and Data Engineering enthusiast at Arizona State University (📍US), skilled in **Java, C, C#, C++, SQL, AI**. I’m passionate about building scalable solutions, currently focused on **AWS** and **Python** for large-scale applications.
 
 - **Projects**: Developed a [Pathfinding Visualizer](https://github.com/darshchaurasia/Pathfinding-Visualizer) and an [Inferno Discord Bot](https://github.com/darshchaurasia/inferno-verification-service).
 - **Recognition**: Dean’s List honoree (Fall 2022 - Present) & NAMU Scholar.
