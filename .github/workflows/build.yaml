@@ -44,7 +44,7 @@ jobs:
           BIRTHDAY: ${{ secrets.BIRTHDAY }}
         run: python today.py
       
-            - name: Commit and Push Changes
+      - name: Commit and Push Changes
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |-
