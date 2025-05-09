@@ -46,10 +46,10 @@ jobs:
       
       - name: Commit and Push Changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |-
           git config --global user.email "darshchaurasia@gmail.com"
           git config --global user.name "darshchaurasia"
           git add .
           git commit -m "📝 Updated README and Repository Archive" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/${{ secrets.USER_NAME }}/${{ github.repository }}.git
