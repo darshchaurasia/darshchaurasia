@@ -44,12 +44,13 @@ jobs:
           BIRTHDAY: ${{ secrets.BIRTHDAY }}
         run: python today.py
       
-      - name: Commit and Push Changes
+            - name: Commit and Push Changes
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |-
           git config --global user.email "darshchaurasia@gmail.com"
           git config --global user.name "darshchaurasia"
+          git remote set-url origin https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/darshchaurasia/darshchaurasia.git
           git add .
           git commit -m "📝 Updated README and Repository Archive" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/${{ secrets.USER_NAME }}/${{ secrets.USER_NAME }}.git
+          git push origin main
