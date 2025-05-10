@@ -35,6 +35,12 @@ jobs:
       - name: Install dependencies
         run: python -m pip install --upgrade pip && python -m pip install -r cache/requirements.txt
       
+      - name: Flush Cache Files
+        run: |
+          echo "Flushing old cache files..."
+          rm -rf cache/*.txt
+          echo "Cache cleared."
+      
       - name: Generate Repository Archive
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
