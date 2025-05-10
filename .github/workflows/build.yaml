@@ -38,8 +38,9 @@ jobs:
       - name: Flush Cache Files
         run: |
           echo "Flushing old cache files..."
-          rm -rf cache/*.txt
+          find cache/ -type f -name "*.txt" ! -name "requirements.txt" -delete
           echo "Cache cleared."
+
       
       - name: Generate Repository Archive
         env:
